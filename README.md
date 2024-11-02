@@ -1,1 +1,1 @@
-#practing git brancing and merging
+practicing git branching and merging
